@@ -16,7 +16,7 @@
     justify-content: space-between;
     background: linear-gradient(to left, #f46b45, #eea849);
     /* Menggunakan properti background untuk gradien */
-    color: #FFF;
+    color: black;
     height: 50px;
     padding: 1em;
 }
@@ -36,7 +36,7 @@
 }
 
 .menu>li>a {
-    color: white;
+    color: black;
     /* Mengubah warna teks menjadi putih */
     text-decoration: none;
     /* Menghapus garis bawah pada tautan */
